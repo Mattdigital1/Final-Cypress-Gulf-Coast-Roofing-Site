@@ -1,0 +1,11 @@
+{
+  "name": "cypress-gulf-coast-roofing",
+  "version": "1.0.0",
+  "description": "Cypress Gulf Coast Roofing & Gutters - Static Website",
+  "scripts": {
+    "start": "serve -s . -l 3000"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
